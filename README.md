@@ -28,6 +28,6 @@ Give big $\Theta$ bounds for the following recurrence relations.
 
 1) Big theta (log(n))
 2) Big theta (n)
-3) Big theta (n^2)
+3) Big theta (n log n)
 
 "I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
